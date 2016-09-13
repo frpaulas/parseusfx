@@ -1,6 +1,7 @@
-# Worldenglishbible
+# PARSEUSFX
 
 Interpret and install in Postgres DB for use by Iphod
+Working on World English Bible initially
 
 Nothing to see here, really
 
